@@ -1,0 +1,28 @@
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+  }
+  
+  .app {
+    text-align: center;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .app-header {
+    background-color: #1a1a1a;
+    color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .app-footer {
+    margin-top: 20px;
+    color: #666;
+  }
+  
+  

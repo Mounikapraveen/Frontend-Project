@@ -1,0 +1,64 @@
+
+.watch-customizer {
+    text-align: center;
+  }
+  
+  .preview {
+    margin: 20px auto;
+    width: 300px;
+    height: 300px;
+    position: relative;
+  }
+  
+  .watch-case {
+    border-radius: 50%;
+    border: 5px solid #ccc;
+    width: 300px;
+    height: 300px;
+    position: relative;
+  }
+  
+  .watch-case.silver {
+    border-color: silver;
+  }
+  
+  .watch-case.spacegray {
+    border-color: #333;
+  }
+  
+  .watch-case.gold {
+    border-color: gold;
+  }
+  
+  .watch-band {
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .watch-band.sport.white {
+    background-color: white;
+  }
+  
+  .watch-band.sport.black {
+    background-color: black;
+  }
+  
+  .watch-band.sport.blue {
+    background-color: blue;
+  }
+  
+  .controls {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .controls label {
+    margin-right: 10px;
+  }
+  
+  
